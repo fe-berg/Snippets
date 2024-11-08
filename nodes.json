@@ -1,0 +1,35 @@
+[
+    {
+        "node": "find ~ -iname '*.jpg'",
+        "tags": [
+            "find",
+            "search"
+        ],
+        "title": "Using Find in Linux",
+        "description": "Finding a file fitting the reg-exp for their name anywhere in linux",
+        "url": "https://opensource.com/article/18/4/how-use-find-linux"
+    },
+    {
+        "node": "where is the fruit?",
+        "tags": [
+            "fruit",
+            "banana",
+            "food"
+        ],
+        "title": "who ist das essen",
+        "description": "neue node",
+        "url": "node1.com"
+    },
+    {
+        "node": "nichts",
+        "tags": [
+            "erdbeere",
+            "wasser",
+            "nuss",
+            "saft"
+        ],
+        "title": "obstsalat",
+        "description": "fruechte",
+        "url": "zeug"
+    }
+]
