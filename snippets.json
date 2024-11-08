@@ -1,0 +1,21 @@
+{
+    "snippet1":{
+        "title":"Setting Linebreaks to \\n for all Files in directory",
+        "description":"Setting Linebreaks to \\n for all Files in directory",
+        "tags":[
+            "for",
+            "yaml",
+            "ansible",
+            "vim"
+        ],
+        "code":"for f in /foo/bar*.yaml; do vim $f -c \"set ff=unix\" -c \":wq\";done"
+    },
+    "snippet2":{
+        "title":"",
+        "description":"",
+        "tags":[
+
+        ],
+        "code":""
+    }
+}
